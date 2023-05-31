@@ -1,6 +1,11 @@
-# Quickstart: Synthesize speech in C# under .NET Framework for Windows
+# COP4494
 
-This is our Azure Project code.
+This is our Azure Project code
+
+Lara Turunç
+İlke Damla Çolak
+Doğukan Yumurtacılar
+Beliz Karagüllü
 
 
 
